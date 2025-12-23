@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working on [ GOV.UK Design Systems team](https://design-system.service.gov.uk/)
 - 🌱 Learning on how to code and sustainability in design
-- 📫 Reach me on my [Linkedin](https://www.linkedin.com/in/hazal-arpalikli/)
+- 📫 Reach me on my [Linkedin profile](https://www.linkedin.com/in/hazal-arpalikli/)
 - 💬 Anaything related to design system, [use team's support channels](https://design-system.service.gov.uk/get-in-touch/)
 
 <!--

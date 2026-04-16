@@ -3,7 +3,6 @@
 - 🔭 I am currently working on [ GOV.UK Design Systems team](https://design-system.service.gov.uk/)
 - 🌱 Learning on how to code and sustainability in design
 - 📫 Reach me on my [Linkedin profile](https://www.linkedin.com/in/hazal-arpalikli/)
-- 💬 Anything related to design system, [use team's support channels](https://design-system.service.gov.uk/get-in-touch/)
 
 <!--
 **hazalarpalikli/hazalarpalikli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

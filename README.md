@@ -1,6 +1,6 @@
 ## Hi, I am Hazal 👋
 
-- 🔭 I am currently working on [ GOV.UK Design Systems team](https://design-system.service.gov.uk/)
+- 🔭 I am a designer currently working on [ GOV.UK Design Systems team](https://design-system.service.gov.uk/)
 - 🌱 Learning on how to code and sustainability in design
 - 📫 Reach me on my [Linkedin profile](https://www.linkedin.com/in/hazal-arpalikli/)
 
